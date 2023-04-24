@@ -15,11 +15,6 @@
           <div class="px-4 py-2 bg-white text-center border border-black rounded-md">
             {{
               action == "apply" ? "申請" : "前往" }}
-            <!-- <svg class="h-4 inline-block align-baseline" viewBox="0 0 7 12" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path d="M1 1L6 6L1 11" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-            </svg> -->
-
             <svg class="w-3 h-3 inline-block align-baseline" viewBox="0 0 12 12" fill="none"
               xmlns="http://www.w3.org/2000/svg">
               <path d="M11 1H7.66667M11 1L6 6M11 1V4.33333" stroke="black" stroke-width="1.2" stroke-linecap="round"
