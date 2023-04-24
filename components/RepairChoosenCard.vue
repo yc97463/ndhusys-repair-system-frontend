@@ -16,7 +16,6 @@
             class="px-4 py-2 bg-white text-center border border-black rounded-md shadow-sm hover:shadow-sm hover:shadow-black/80">
             {{
               action == "apply" ? "申請" : "前往" }}
-            <!-- an right arrow svg icon -->
             <svg class="w-4 h-4 inline-block" viewBox="0 0 7 12" fill="none">
               <path d="M1 1L6 6L1 11" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
