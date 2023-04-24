@@ -1,9 +1,9 @@
 <template>
   <div>
     <div class="w-screen border-b-2 border-ndhu-green">
-      <div class="w-screen h-7 bg-ndhu-green/[.85]">
-        <div class="w-2/3 mx-auto">
-          <div class="float-right">
+      <div class="w-screen h-10 bg-ndhu-green/[.85]">
+        <div class="w-2/3 mx-auto py-2">
+          <div class="float-right text-sm">
             <HeaderTopLinks name="東華大學" url="https://www.ndhu.edu.tw/" />
             <HeaderTopLinks name="總務處" url="https://ga.ndhu.edu.tw/" />
             <HeaderTopLinks name="東華 i 溝通" url="https://web.ndhu.edu.tw/SCR/pprz/Login.aspx" />
