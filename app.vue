@@ -1,17 +1,11 @@
-<!-- <template>
-  <div>
-    <span class="text-3xl font-bold underline">
-      Hello world!
-    </span>
-    <AppAlert>
-      This is a message from the parent component.
-    </AppAlert>
-  </div>
-</template> -->
-
 <template>
   <div>
-    <!-- Markup shared across all pages, ex: NavBar -->
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
+</style>
