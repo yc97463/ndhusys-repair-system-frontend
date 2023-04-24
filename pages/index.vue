@@ -1,6 +1,6 @@
 <template>
   <div class="w-1/3 mx-auto my-16">
-    <h1 class="text-center font-semibold text-2xl">請選擇維修類別</h1>
+    <h1 class="text-center font-medium text-2xl">請選擇維修類別</h1>
     <div class="">
       <RepairChoosenCard icon="building" title="校舍宿舍報修" description="總務處校舍、宿舍維修相關通報。" action="apply"
         url="/auth/login?redirec=/repair" />

@@ -1,6 +1,6 @@
 <template>
   <div class="w-1/3 mx-auto my-16">
-    <h1 class="text-center font-semibold text-2xl">登入總務處維修系統</h1>
+    <h1 class="text-center font-medium text-2xl">登入總務處維修系統</h1>
     <div class="w-1/4 mx-auto">
       <NuxtLink to="https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx">
         <svg width="371" height="48" viewBox="0 0 371 48" fill="none" xmlns="http://www.w3.org/2000/svg">
